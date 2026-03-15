@@ -9,7 +9,7 @@ This is a standard supervised classification task.A classification problem where
    
 Variable | Description
 ----------|--------------
-Loan_ID | Unique Loan ID
+Loan_ID | Unique Loan IDd
 Gender | Male/ Female
 Married | Applicant married (Y/N)
 Dependents | Number of dependents
